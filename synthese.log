@@ -1,0 +1,912 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.26)  24 MAY 2023 11:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**synthese.tex
+(./synthese.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+(/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2023/03/08 v3.5q French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language29). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language29). Reported on input line 92.
+\FB@nonchar=\count195
+Package babel Info: Making : an active character on input line 395.
+Package babel Info: Making ; an active character on input line 396.
+Package babel Info: Making ! an active character on input line 397.
+Package babel Info: Making ? an active character on input line 398.
+\FBguill@level=\count196
+\FBold@everypar=\toks16
+\FB@Mht=\dimen142
+\mc@charclass=\count197
+\mc@charfam=\count198
+\mc@charslot=\count199
+\std@mcc=\count266
+\dec@mcc=\count267
+\FB@parskip=\dimen143
+\listindentFB=\dimen144
+\descindentFB=\dimen145
+\labelindentFB=\dimen146
+\labelwidthFB=\dimen147
+\leftmarginFB=\dimen148
+\parindentFFN=\dimen149
+\FBfnindent=\dimen150
+))
+(/usr/share/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen151
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count268
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count269
+\leftroot@=\count270
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count271
+\DOTSCASE@=\count272
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count273
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count274
+\dotsspace@=\muskip16
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks21
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks22
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks23
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count280
+))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count281
+\mult@box=\box53
+\multicol@leftmargin=\dimen162
+\c@unbalance=\count282
+\c@collectmore=\count283
+\doublecol@number=\count284
+\multicoltolerance=\count285
+\multicolpretolerance=\count286
+\full@width=\dimen163
+\page@free=\dimen164
+\premulticols=\dimen165
+\postmulticols=\dimen166
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen167
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count287
+\c@columnbadness=\count288
+\c@finalcolumnbadness=\count289
+\last@try=\dimen168
+\multicolovershoot=\dimen169
+\multicolundershoot=\dimen170
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count290
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count291
+\float@exts=\toks25
+\float@box=\box98
+\@float@everytoks=\toks26
+\@floatcapt=\box99
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count292
+\Gm@cntv=\count293
+\c@Gm@tempcnt=\count294
+\Gm@bindingoffset=\dimen171
+\Gm@wd@mp=\dimen172
+\Gm@odd@mp=\dimen173
+\Gm@even@mp=\dimen174
+\Gm@layoutwidth=\dimen175
+\Gm@layoutheight=\dimen176
+\Gm@layouthoffset=\dimen177
+\Gm@layoutvoffset=\dimen178
+\Gm@dimlist=\toks27
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen179
+\ar@mcellbox=\box100
+\extrarowheight=\dimen180
+\NC@list=\toks28
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box101
+)
+\everycr=\toks29
+\minrowclearance=\skip57
+\rownum=\count295
+)
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count296
+\l__pdf_internal_box=\box102
+)
+(./synthese.aux
+
+LaTeX Warning: Label `eq1' multiply defined.
+
+
+LaTeX Warning: Label `eq1' multiply defined.
+
+)
+\openout1 = `synthese.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Info: Redefining \degres on input line 31.
+LaTeX Info: Redefining \up on input line 31.
+
+
+Package french.ldf Warning: OT1 encoding should not be used for French.
+(french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
+(french.ldf)                of your document; reported on input line 31.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count297
+\scratchdimen=\dimen181
+\scratchbox=\box103
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen182
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks31
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 695.38536pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=695.38536pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./synthese.toc [2] [3])
+\tf@toc=\write3
+\openout3 = `synthese.toc'.
+
+ [4]
+<img/Distortion.png, id=19, 853.1875pt x 332.24126pt>
+File: img/Distortion.png Graphic file (type png)
+<use img/Distortion.png>
+Package pdftex.def Info: img/Distortion.png  used on input line 62.
+(pdftex.def)             Requested size: 500.484pt x 194.90025pt.
+<img/Analogique-Numérique.png, id=20, 401.5pt x 170.6375pt>
+File: img/Analogique-Numérique.png Graphic file (type png)
+<use img/Analogique-Numérique.png>
+Package pdftex.def Info: img/Analogique-Numérique.png  used on input line 77.
+(pdftex.def)             Requested size: 300.29344pt x 127.63411pt.
+<img/Fourrier.png, id=21, 1021.8175pt x 640.3925pt>
+File: img/Fourrier.png Graphic file (type png)
+<use img/Fourrier.png>
+Package pdftex.def Info: img/Fourrier.png  used on input line 84.
+(pdftex.def)             Requested size: 300.29344pt x 188.19104pt.
+<img/FourrierExemple.png, id=22, 636.12656pt x 362.10281pt>
+File: img/FourrierExemple.png Graphic file (type png)
+<use img/FourrierExemple.png>
+Package pdftex.def Info: img/FourrierExemple.png  used on input line 85.
+(pdftex.def)             Requested size: 300.29344pt x 170.93423pt.
+ [5 <./img/Distortion.png (PNG copy)>] [6 <./img/Analogique-Numérique.png (PNG
+ copy)> <./img/Fourrier.png (PNG copy)> <./img/FourrierExemple.png (PNG copy)>]
+<img/Multiplexage.png, id=29, 991.705pt x 600.2425pt>
+File: img/Multiplexage.png Graphic file (type png)
+<use img/Multiplexage.png>
+Package pdftex.def Info: img/Multiplexage.png  used on input line 102.
+(pdftex.def)             Requested size: 300.29344pt x 181.75021pt.
+<img/TV1.png, id=30, 733.74126pt x 513.92pt>
+File: img/TV1.png Graphic file (type png)
+<use img/TV1.png>
+Package pdftex.def Info: img/TV1.png  used on input line 128.
+(pdftex.def)             Requested size: 125.12099pt x 87.63185pt.
+<img/TV2.png, id=31, 889.3225pt x 503.8825pt>
+File: img/TV2.png Graphic file (type png)
+<use img/TV2.png>
+Package pdftex.def Info: img/TV2.png  used on input line 132.
+(pdftex.def)             Requested size: 125.12099pt x 70.88905pt.
+ [7 <./img/Multiplexage.png (PNG copy)> <./img/TV1.png (PNG copy)> <./img/TV2.p
+ng (PNG copy)>]
+<img/Quantification.png, id=38, 273.27094pt x 167.12437pt>
+File: img/Quantification.png Graphic file (type png)
+<use img/Quantification.png>
+Package pdftex.def Info: img/Quantification.png  used on input line 169.
+(pdftex.def)             Requested size: 300.29344pt x 183.66394pt.
+ [8 <./img/Quantification.png (PNG copy)>]
+<img/ModélisationLigne.png, id=44, 486.31688pt x 175.40532pt>
+File: img/ModélisationLigne.png Graphic file (type png)
+<use img/ModélisationLigne.png>
+Package pdftex.def Info: img/ModélisationLigne.png  used on input line 198.
+(pdftex.def)             Requested size: 300.29344pt x 108.30855pt.
+ [9 <./img/ModélisationLigne.png (PNG copy)>]
+Overfull \hbox (5.72742pt too wide) in paragraph at lines 258--259
+[]$\OML/cmm/m/it/12 z$ \OT1/cmr/m/n/12 est to-ta-le-ment r^^Seel pour une r^^Se
+sistance pure et to-ta-le-ment ima-gi-naire pour une in-duc-tance/capacit^^Se
+ []
+
+[10]
+<img/1.png, id=55, 249.93375pt x 143.03438pt>
+File: img/1.png Graphic file (type png)
+<use img/1.png>
+Package pdftex.def Info: img/1.png  used on input line 277.
+(pdftex.def)             Requested size: 200.19054pt x 114.57169pt.
+<img/2.png, id=56, 188.20313pt x 130.23656pt>
+File: img/2.png Graphic file (type png)
+<use img/2.png>
+Package pdftex.def Info: img/2.png  used on input line 284.
+(pdftex.def)             Requested size: 150.14671pt x 103.90918pt.
+<img/3.png, id=57, 620.3175pt x 71.51718pt>
+File: img/3.png Graphic file (type png)
+<use img/3.png>
+Package pdftex.def Info: img/3.png  used on input line 295.
+(pdftex.def)             Requested size: 300.29344pt x 34.6203pt.
+<img/4.png, id=58, 281.55188pt x 179.92218pt>
+File: img/4.png Graphic file (type png)
+<use img/4.png>
+Package pdftex.def Info: img/4.png  used on input line 302.
+(pdftex.def)             Requested size: 100.09526pt x 63.96478pt.
+ [11 <./img/1.png (PNG copy)> <./img/2.png (PNG copy)> <./img/3.png (PNG copy)>
+]
+<img/bifillaire.png, id=62, 819.06pt x 753.81625pt>
+File: img/bifillaire.png Graphic file (type png)
+<use img/bifillaire.png>
+Package pdftex.def Info: img/bifillaire.png  used on input line 341.
+(pdftex.def)             Requested size: 125.12099pt x 115.14948pt.
+<img/bifillaire2.png, id=63, 597.23125pt x 752.8125pt>
+File: img/bifillaire2.png Graphic file (type png)
+<use img/bifillaire2.png>
+Package pdftex.def Info: img/bifillaire2.png  used on input line 345.
+(pdftex.def)             Requested size: 125.12099pt x 157.71622pt.
+<img/bifillaire3.png, id=64, 978.65625pt x 696.6025pt>
+File: img/bifillaire3.png Graphic file (type png)
+<use img/bifillaire3.png>
+Package pdftex.def Info: img/bifillaire3.png  used on input line 349.
+(pdftex.def)             Requested size: 175.16862pt x 124.6815pt.
+ [12 <./img/4.png (PNG copy)>]
+<img/coaxial1.png, id=68, 707.64375pt x 664.4825pt>
+File: img/coaxial1.png Graphic file (type png)
+<use img/coaxial1.png>
+Package pdftex.def Info: img/coaxial1.png  used on input line 376.
+(pdftex.def)             Requested size: 150.14671pt x 140.9852pt.
+<img/coaxial2.png, id=69, 947.54pt x 658.46pt>
+File: img/coaxial2.png Graphic file (type png)
+<use img/coaxial2.png>
+Package pdftex.def Info: img/coaxial2.png  used on input line 380.
+(pdftex.def)             Requested size: 150.14671pt x 104.33093pt.
+ [13 <./img/bifillaire.png (PNG copy)> <./img/bifillaire2.png (PNG copy)> <./im
+g/bifillaire3.png (PNG copy)> <./img/coaxial1.png (PNG copy)> <./img/coaxial2.p
+ng (PNG copy)>]
+<img/multimode.png, id=74, 623.32875pt x 216.05719pt>
+File: img/multimode.png Graphic file (type png)
+<use img/multimode.png>
+Package pdftex.def Info: img/multimode.png  used on input line 423.
+(pdftex.def)             Requested size: 500.484pt x 173.47894pt.
+<img/multimode2.png, id=75, 641.39626pt x 225.84375pt>
+File: img/multimode2.png Graphic file (type png)
+<use img/multimode2.png>
+Package pdftex.def Info: img/multimode2.png  used on input line 430.
+(pdftex.def)             Requested size: 500.484pt x 176.22977pt.
+<img/multimode3.png, id=76, 650.43pt x 238.64156pt>
+File: img/multimode3.png Graphic file (type png)
+<use img/multimode3.png>
+Package pdftex.def Info: img/multimode3.png  used on input line 437.
+(pdftex.def)             Requested size: 500.484pt x 183.63075pt.
+ [14 <./img/multimode.png (PNG copy)>]
+<img/onde_direct.png, id=80, 520.19344pt x 197.98969pt>
+File: img/onde_direct.png Graphic file (type png)
+<use img/onde_direct.png>
+Package pdftex.def Info: img/onde_direct.png  used on input line 462.
+(pdftex.def)             Requested size: 350.33727pt x 133.3412pt.
+ [15 <./img/multimode2.png (PNG copy)> <./img/multimode3.png (PNG copy)>]
+<img/refraction.png, id=84, 495.35063pt x 335.75438pt>
+File: img/refraction.png Graphic file (type png)
+<use img/refraction.png>
+Package pdftex.def Info: img/refraction.png  used on input line 487.
+(pdftex.def)             Requested size: 350.33727pt x 237.4651pt.
+ [16 <./img/onde_direct.png (PNG copy)> <./img/refraction.png (PNG copy)>]
+<img/satellite.png, id=88, 530.73282pt x 432.11438pt>
+File: img/satellite.png Graphic file (type png)
+<use img/satellite.png>
+Package pdftex.def Info: img/satellite.png  used on input line 499.
+(pdftex.def)             Requested size: 350.33727pt x 285.24251pt.
+<img/champAntenne.png, id=90, 306.39468pt x 274.77657pt>
+File: img/champAntenne.png Graphic file (type png)
+<use img/champAntenne.png>
+Package pdftex.def Info: img/champAntenne.png  used on input line 507.
+(pdftex.def)             Requested size: 175.17244pt x 157.09384pt.
+<img/TEM.png, id=91, 487.06969pt x 219.82124pt>
+File: img/TEM.png Graphic file (type png)
+<use img/TEM.png>
+Package pdftex.def Info: img/TEM.png  used on input line 513.
+(pdftex.def)             Requested size: 225.21626pt x 101.64224pt.
+
+[17 <./img/satellite.png> <./img/champAntenne.png (PNG copy)>]
+<img/rayonnement.png, id=96, 457.71pt x 228.855pt>
+File: img/rayonnement.png Graphic file (type png)
+<use img/rayonnement.png>
+Package pdftex.def Info: img/rayonnement.png  used on input line 523.
+(pdftex.def)             Requested size: 150.14671pt x 75.0719pt.
+<img/rayonnement2.png, id=97, 353.82187pt x 237.13594pt>
+File: img/rayonnement2.png Graphic file (type png)
+<use img/rayonnement2.png>
+Package pdftex.def Info: img/rayonnement2.png  used on input line 527.
+(pdftex.def)             Requested size: 150.14671pt x 100.63127pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 521--532
+[]$[]$$[]$ $[]$ 
+ []
+
+<img/dipole.png, id=98, 523.9575pt x 198.7425pt>
+File: img/dipole.png Graphic file (type png)
+<use img/dipole.png>
+Package pdftex.def Info: img/dipole.png  used on input line 541.
+(pdftex.def)             Requested size: 350.33727pt x 132.88991pt.
+<img/dipole1.png, id=99, 207.02344pt x 231.11343pt>
+File: img/dipole1.png Graphic file (type png)
+<use img/dipole1.png>
+Package pdftex.def Info: img/dipole1.png  used on input line 548.
+(pdftex.def)             Requested size: 150.14671pt x 167.6217pt.
+<img/dipole2.png, id=100, 435.87843pt x 314.67563pt>
+File: img/dipole2.png Graphic file (type png)
+<use img/dipole2.png>
+Package pdftex.def Info: img/dipole2.png  used on input line 553.
+(pdftex.def)             Requested size: 200.19435pt x 144.52686pt.
+
+Overfull \hbox (50.05144pt too wide) in paragraph at lines 546--560
+[]$[]$$[]$
+ []
+
+[18 <./img/TEM.png (PNG copy)> <./img/rayonnement.png (PNG copy)> <./img/rayonn
+ement2.png (PNG copy)> <./img/dipole.png (PNG copy)>]
+<img/endfire.png, id=104, 496.85625pt x 243.15843pt>
+File: img/endfire.png Graphic file (type png)
+<use img/endfire.png>
+Package pdftex.def Info: img/endfire.png  used on input line 566.
+(pdftex.def)             Requested size: 300.29344pt x 146.96474pt.
+<img/yagi.png, id=105, 320.69812pt x 266.49562pt>
+File: img/yagi.png Graphic file (type png)
+<use img/yagi.png>
+Package pdftex.def Info: img/yagi.png  used on input line 574.
+(pdftex.def)             Requested size: 175.17244pt x 145.56863pt.
+<img/yagi2.png, id=106, 512.66531pt x 209.28188pt>
+File: img/yagi2.png Graphic file (type png)
+<use img/yagi2.png>
+Package pdftex.def Info: img/yagi2.png  used on input line 575.
+(pdftex.def)             Requested size: 275.26772pt x 112.37184pt.
+<img/parabole.png, id=107, 325.215pt x 265.74281pt>
+File: img/parabole.png Graphic file (type png)
+<use img/parabole.png>
+Package pdftex.def Info: img/parabole.png  used on input line 584.
+(pdftex.def)             Requested size: 225.21626pt x 184.03584pt.
+<img/parabole2.png, id=108, 351.56343pt x 295.85532pt>
+File: img/parabole2.png Graphic file (type png)
+<use img/parabole2.png>
+Package pdftex.def Info: img/parabole2.png  used on input line 585.
+(pdftex.def)             Requested size: 225.21626pt x 189.52731pt.
+ [19{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./img/di
+pole1.png (PNG copy)> <./img/dipole2.png (PNG copy)> <./img/endfire.png (PNG co
+py)> <./img/yagi.png (PNG copy)> <./img/yagi2.png (PNG copy)>]
+<img/reseauAntennes.png, id=114, 530.73282pt x 289.83281pt>
+File: img/reseauAntennes.png Graphic file (type png)
+<use img/reseauAntennes.png>
+Package pdftex.def Info: img/reseauAntennes.png  used on input line 591.
+(pdftex.def)             Requested size: 350.33727pt x 191.3212pt.
+ [20 <./img/parabole.png (PNG copy)> <./img/parabole2.png (PNG copy)> <./img/re
+seauAntennes.png (PNG copy)>]
+<img/modulationAM.png, id=118, 328.97906pt x 336.50719pt>
+File: img/modulationAM.png Graphic file (type png)
+<use img/modulationAM.png>
+Package pdftex.def Info: img/modulationAM.png  used on input line 619.
+(pdftex.def)             Requested size: 200.19054pt x 204.77614pt.
+<img/surmodulation.png, id=119, 268.00125pt x 156.585pt>
+File: img/surmodulation.png Graphic file (type png)
+<use img/surmodulation.png>
+Package pdftex.def Info: img/surmodulation.png  used on input line 634.
+(pdftex.def)             Requested size: 200.19054pt x 116.96536pt.
+ [21 <./img/modulationAM.png (PNG copy)>]
+<img/modulationAM1.png, id=123, 484.05844pt x 360.59718pt>
+File: img/modulationAM1.png Graphic file (type png)
+<use img/modulationAM1.png>
+Package pdftex.def Info: img/modulationAM1.png  used on input line 651.
+(pdftex.def)             Requested size: 200.19054pt x 149.13333pt.
+<img/modulationAM2.png, id=124, 402.75468pt x 493.845pt>
+File: img/modulationAM2.png Graphic file (type png)
+<use img/modulationAM2.png>
+Package pdftex.def Info: img/modulationAM2.png  used on input line 652.
+(pdftex.def)             Requested size: 200.19054pt x 245.46754pt.
+<img/modulationAM3.png, id=125, 514.92375pt x 197.98969pt>
+File: img/modulationAM3.png Graphic file (type png)
+<use img/modulationAM3.png>
+Package pdftex.def Info: img/modulationAM3.png  used on input line 660.
+(pdftex.def)             Requested size: 300.29344pt x 115.4655pt.
+ [22 <./img/surmodulation.png (PNG copy)> <./img/modulationAM1.png (PNG copy)> 
+<./img/modulationAM2.png (PNG copy)>]
+<img/filtrage.png, id=129, 679.78969pt x 173.14688pt>
+File: img/filtrage.png Graphic file (type png)
+<use img/filtrage.png>
+Package pdftex.def Info: img/filtrage.png  used on input line 685.
+(pdftex.def)             Requested size: 300.29344pt x 76.48604pt.
+<img/BandeLateralUnique.png, id=130, 602.25pt x 356.83313pt>
+File: img/BandeLateralUnique.png Graphic file (type png)
+<use img/BandeLateralUnique.png>
+Package pdftex.def Info: img/BandeLateralUnique.png  used on input line 706.
+(pdftex.def)             Requested size: 300.29344pt x 177.93152pt.
+ [23 <./img/modulationAM3.png (PNG copy)> <./img/filtrage.png (PNG copy)>] [24 
+<./img/BandeLateralUnique.png (PNG copy)>]
+<img/signalStéréo.png, id=137, 517.935pt x 292.84406pt>
+File: img/signalStéréo.png Graphic file (type png)
+<use img/signalStéréo.png>
+Package pdftex.def Info: img/signalStéréo.png  used on input line 746.
+(pdftex.def)             Requested size: 300.29344pt x 169.79605pt.
+<img/emeteurStereo.png, id=138, 612.03656pt x 221.32687pt>
+File: img/emeteurStereo.png Graphic file (type png)
+<use img/emeteurStereo.png>
+Package pdftex.def Info: img/emeteurStereo.png  used on input line 763.
+(pdftex.def)             Requested size: 300.29344pt x 108.59294pt.
+ [25 <./img/signalStéréo.png (PNG copy)> <./img/emeteurStereo.png (PNG copy)>
+]
+<img/recepteurStereo.png, id=143, 371.13657pt x 207.77625pt>
+File: img/recepteurStereo.png Graphic file (type png)
+<use img/recepteurStereo.png>
+Package pdftex.def Info: img/recepteurStereo.png  used on input line 787.
+(pdftex.def)             Requested size: 300.29344pt x 168.12029pt.
+<img/ModulationTVNoirBlanc.png, id=144, 619.56468pt x 277.035pt>
+File: img/ModulationTVNoirBlanc.png Graphic file (type png)
+<use img/ModulationTVNoirBlanc.png>
+Package pdftex.def Info: img/ModulationTVNoirBlanc.png  used on input line 800.
+
+(pdftex.def)             Requested size: 350.33727pt x 156.64764pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
+
+ []
+
+[26 <./img/recepteurStereo.png (PNG copy)> <./img/ModulationTVNoirBlanc.png (PN
+G copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--813
+
+ []
+
+<img/EmetteruTVNoirBlanc.png, id=148, 423.08063pt x 270.25969pt>
+File: img/EmetteruTVNoirBlanc.png Graphic file (type png)
+<use img/EmetteruTVNoirBlanc.png>
+Package pdftex.def Info: img/EmetteruTVNoirBlanc.png  used on input line 820.
+(pdftex.def)             Requested size: 350.33727pt x 223.79999pt.
+<img/recepteurTVNoirBlanc.png, id=149, 397.485pt x 237.88875pt>
+File: img/recepteurTVNoirBlanc.png Graphic file (type png)
+<use img/recepteurTVNoirBlanc.png>
+Package pdftex.def Info: img/recepteurTVNoirBlanc.png  used on input line 835.
+(pdftex.def)             Requested size: 350.33727pt x 209.67668pt.
+[27 <./img/EmetteruTVNoirBlanc.png (PNG copy)>]
+<img/NTSC.png, id=153, 507.39563pt x 317.68687pt>
+File: img/NTSC.png Graphic file (type png)
+<use img/NTSC.png>
+Package pdftex.def Info: img/NTSC.png  used on input line 860.
+(pdftex.def)             Requested size: 300.29344pt x 188.02017pt.
+ [28 <./img/recepteurTVNoirBlanc.png (PNG copy)> <./img/NTSC.png (PNG copy)>]
+<img/PAL.png, id=157, 543.53062pt x 243.15843pt>
+File: img/PAL.png Graphic file (type png)
+<use img/PAL.png>
+Package pdftex.def Info: img/PAL.png  used on input line 878.
+(pdftex.def)             Requested size: 350.33727pt x 156.73766pt.
+<img/PAL1.png, id=158, 465.23813pt x 304.88907pt>
+File: img/PAL1.png Graphic file (type png)
+<use img/PAL1.png>
+Package pdftex.def Info: img/PAL1.png  used on input line 885.
+(pdftex.def)             Requested size: 350.33727pt x 229.59668pt.
+ [29 <./img/PAL.png> <./img/PAL1.png>]
+<img/FDMA.png, id=164, 505.89pt x 184.43906pt>
+File: img/FDMA.png Graphic file (type png)
+<use img/FDMA.png>
+Package pdftex.def Info: img/FDMA.png  used on input line 967.
+(pdftex.def)             Requested size: 350.33727pt x 127.73026pt.
+ [30]
+<img/TDMA.png, id=168, 507.39563pt x 182.93344pt>
+File: img/TDMA.png Graphic file (type png)
+<use img/TDMA.png>
+Package pdftex.def Info: img/TDMA.png  used on input line 977.
+(pdftex.def)             Requested size: 350.33727pt x 126.31073pt.
+<img/TDMA1.png, id=169, 635.37375pt x 335.75438pt>
+File: img/TDMA1.png Graphic file (type png)
+<use img/TDMA1.png>
+Package pdftex.def Info: img/TDMA1.png  used on input line 978.
+(pdftex.def)             Requested size: 350.33727pt x 185.13681pt.
+ [31 <./img/FDMA.png> <./img/TDMA.png> <./img/TDMA1.png>]
+Overfull \hbox (9.32573pt too wide) in paragraph at lines 987--988
+[]\OT1/cmr/bx/n/12 PseudoRandom Code : \OT1/cmr/m/n/12 Code sp^^Secifique ^^Ra 
+chaque uti-li-sa-teur per-met-tant d'en-co-der/moduler
+ []
+
+<img/CDMA.png, id=177, 484.05844pt x 179.92218pt>
+File: img/CDMA.png Graphic file (type png)
+<use img/CDMA.png>
+Package pdftex.def Info: img/CDMA.png  used on input line 995.
+(pdftex.def)             Requested size: 350.33727pt x 130.22472pt.
+<img/Erreur.png, id=178, 234.8775pt x 219.82124pt>
+File: img/Erreur.png Graphic file (type png)
+<use img/Erreur.png>
+Package pdftex.def Info: img/Erreur.png  used on input line 1021.
+(pdftex.def)             Requested size: 150.14671pt x 140.52075pt.
+[32 <./img/CDMA.png>]
+<img/Erreur2.png, id=183, 650.43pt x 201.00093pt>
+File: img/Erreur2.png Graphic file (type png)
+<use img/Erreur2.png>
+Package pdftex.def Info: img/Erreur2.png  used on input line 1030.
+(pdftex.def)             Requested size: 350.33727pt x 108.26591pt.
+ [33 <./img/Erreur.png> <./img/Erreur2.png>] [34] [35]
+<img/Compression/Huffman.png, id=195, 664.73344pt x 370.38374pt>
+File: img/Compression/Huffman.png Graphic file (type png)
+<use img/Compression/Huffman.png>
+Package pdftex.def Info: img/Compression/Huffman.png  used on input line 1218.
+(pdftex.def)             Requested size: 250.24199pt x 139.43045pt.
+<img/Compression/L77.png, id=196, 566.86781pt x 278.54062pt>
+File: img/Compression/L77.png Graphic file (type png)
+<use img/Compression/L77.png>
+Package pdftex.def Info: img/Compression/L77.png  used on input line 1226.
+(pdftex.def)             Requested size: 250.24199pt x 122.962pt.
+
+[36 <./img/Compression/Huffman.png> <./img/Compression/L77.png>]
+<img/Compression/DCT.png, id=202, 841.64438pt x 444.91219pt>
+File: img/Compression/DCT.png Graphic file (type png)
+<use img/Compression/DCT.png>
+Package pdftex.def Info: img/Compression/DCT.png  used on input line 1241.
+(pdftex.def)             Requested size: 500.484pt x 264.56648pt.
+<img/Compression/DCT1.png, id=203, 876.27374pt x 655.69969pt>
+File: img/Compression/DCT1.png Graphic file (type png)
+<use img/Compression/DCT1.png>
+Package pdftex.def Info: img/Compression/DCT1.png  used on input line 1246.
+(pdftex.def)             Requested size: 500.484pt x 374.5031pt.
+<img/Compression/DCT2.png, id=204, 768.62157pt x 657.95813pt>
+File: img/Compression/DCT2.png Graphic file (type png)
+<use img/Compression/DCT2.png>
+Package pdftex.def Info: img/Compression/DCT2.png  used on input line 1251.
+(pdftex.def)             Requested size: 500.484pt x 428.43073pt.
+ [37 <./img/Compression/DCT.png>]
+<img/Compression/DCT3.png, id=210, 825.0825pt x 546.54187pt>
+File: img/Compression/DCT3.png Graphic file (type png)
+<use img/Compression/DCT3.png>
+Package pdftex.def Info: img/Compression/DCT3.png  used on input line 1256.
+(pdftex.def)             Requested size: 500.484pt x 331.53033pt.
+ [38 <./img/Compression/DCT1.png>] [39 <./img/Compression/DCT2.png>] [40 <./img
+/Compression/DCT3.png>]
+<img/CM/RF.png, id=223, 575.14874pt x 368.87813pt>
+File: img/CM/RF.png Graphic file (type png)
+<use img/CM/RF.png>
+Package pdftex.def Info: img/CM/RF.png  used on input line 1294.
+(pdftex.def)             Requested size: 350.33727pt x 224.70012pt.
+<img/CM/PF.png, id=224, 395.97937pt x 346.29375pt>
+File: img/CM/PF.png Graphic file (type png)
+<use img/CM/PF.png>
+Package pdftex.def Info: img/CM/PF.png  used on input line 1301.
+(pdftex.def)             Requested size: 250.24199pt x 218.84784pt.
+ [41 <./img/CM/RF.png> <./img/CM/PF.png>]
+<img/CM/HR.png, id=230, 590.95781pt x 293.59688pt>
+File: img/CM/HR.png Graphic file (type png)
+<use img/CM/HR.png>
+Package pdftex.def Info: img/CM/HR.png  used on input line 1316.
+(pdftex.def)             Requested size: 500.484pt x 248.65356pt.
+ [42 <./img/CM/HR.png>] [43]
+Overfull \hbox (6.11545pt too wide) in paragraph at lines 1397--1398
+[]\OT1/cmr/m/n/12 Utilise mo-du-la-tion OFDM (des-cen-dant) et SC-FDMA (mon-tan
+t). Tres flexible. Uti-lise des fr^^Sequences
+ []
+
+[44]
+<img/wifi/M.png, id=242, 810.02625pt x 270.25969pt>
+File: img/wifi/M.png Graphic file (type png)
+<use img/wifi/M.png>
+Package pdftex.def Info: img/wifi/M.png  used on input line 1423.
+(pdftex.def)             Requested size: 500.484pt x 166.98605pt.
+<img/wifi/S.png, id=243, 477.28313pt x 108.405pt>
+File: img/wifi/S.png Graphic file (type png)
+<use img/wifi/S.png>
+Package pdftex.def Info: img/wifi/S.png  used on input line 1432.
+(pdftex.def)             Requested size: 500.484pt x 113.67311pt.
+ [45 <./img/wifi/M.png> <./img/wifi/S.png>] (./synthese.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7033 strings out of 476025
+ 110416 string characters out of 5796532
+ 1870388 words of memory out of 5000000
+ 27327 multiletter control sequences out of 15000+600000
+ 522435 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,16n,62p,522b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on synthese.pdf (45 pages, 7606226 bytes).
+PDF statistics:
+ 308 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+

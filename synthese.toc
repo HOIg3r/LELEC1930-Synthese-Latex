@@ -9,13 +9,13 @@
 \contentsline {subsubsection}{\numberline {1.4.3}TV analogique}{7}{}%
 \contentsline {subsection}{\numberline {1.5}Signaux numérique}{8}{}%
 \contentsline {subsection}{\numberline {1.6}Numérisation}{8}{}%
-\contentsline {section}{\numberline {2}Lignes}{8}{}%
+\contentsline {section}{\numberline {2}Lignes}{9}{}%
 \contentsline {subsection}{\numberline {2.1}Modélisation d'une ligne}{9}{}%
 \contentsline {subsection}{\numberline {2.2}Effet pelliculaire}{9}{}%
 \contentsline {subsection}{\numberline {2.3}Atténuation}{10}{}%
 \contentsline {subsection}{\numberline {2.4}Dispersion}{10}{}%
 \contentsline {subsection}{\numberline {2.5}Impédance caractéristique}{10}{}%
-\contentsline {subsection}{\numberline {2.6}Exposant de propagation}{10}{}%
+\contentsline {subsection}{\numberline {2.6}Exposant de propagation}{11}{}%
 \contentsline {subsubsection}{\numberline {2.6.1}Cas 1}{11}{}%
 \contentsline {subsubsection}{\numberline {2.6.2}Cas 2}{11}{}%
 \contentsline {subsection}{\numberline {2.7}Pupinisation}{12}{}%
@@ -24,77 +24,77 @@
 \contentsline {subsection}{\numberline {2.10}Fibre optique}{14}{}%
 \contentsline {subsubsection}{\numberline {2.10.1}Maniere de gerer les modes}{14}{}%
 \contentsline {subsubsection}{\numberline {2.10.2}Transmission dans une fibre optique}{15}{}%
-\contentsline {section}{\numberline {3}Propagation atmosphérique et Antennes}{15}{}%
+\contentsline {section}{\numberline {3}Propagation atmosphérique et Antennes}{16}{}%
 \contentsline {subsection}{\numberline {3.1}Ondes direct}{16}{}%
 \contentsline {subsection}{\numberline {3.2}Ondes de sol}{16}{}%
 \contentsline {subsection}{\numberline {3.3}onde ionosphérique}{16}{}%
 \contentsline {subsection}{\numberline {3.4}Onde par satellite}{17}{}%
 \contentsline {subsection}{\numberline {3.5}Antennes}{17}{}%
-\contentsline {subsubsection}{\numberline {3.5.1}Dipole $\lambda /2$}{18}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}Dipole $\lambda /2$}{19}{}%
 \contentsline {subsubsection}{\numberline {3.5.2}Endfire}{19}{}%
-\contentsline {subsubsection}{\numberline {3.5.3}Yagi}{19}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}Yagi}{20}{}%
 \contentsline {subsubsection}{\numberline {3.5.4}Parabolique}{20}{}%
 \contentsline {subsubsection}{\numberline {3.5.5}Réseau d'antenne}{20}{}%
-\contentsline {section}{\numberline {4}Modulation}{21}{}%
-\contentsline {subsection}{\numberline {4.1}Modulation en bande de base}{21}{}%
-\contentsline {subsection}{\numberline {4.2}Modulation d'amplitude (AM)}{21}{}%
-\contentsline {subsubsection}{\numberline {4.2.1}Modulation autour d'un porteuse}{22}{}%
-\contentsline {subsubsection}{\numberline {4.2.2}Filtrage}{23}{}%
-\contentsline {subsubsection}{\numberline {4.2.3}Bandes latérales}{23}{}%
+\contentsline {section}{\numberline {4}Modulation}{22}{}%
+\contentsline {subsection}{\numberline {4.1}Modulation en bande de base}{22}{}%
+\contentsline {subsection}{\numberline {4.2}Modulation d'amplitude (AM)}{22}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Modulation autour d'un porteuse}{23}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Filtrage}{24}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Bandes latérales}{24}{}%
 \contentsline {subsection}{\numberline {4.3}A CONTINUER}{24}{}%
-\contentsline {section}{\numberline {5}Application}{24}{}%
-\contentsline {subsection}{\numberline {5.1}Réception superhétérodyne}{24}{}%
-\contentsline {subsection}{\numberline {5.2}Radio}{24}{}%
-\contentsline {subsubsection}{\numberline {5.2.1}Pouquoi plus radio FM que AM ?}{24}{}%
-\contentsline {subsection}{\numberline {5.3}Signal stéréo Radio}{24}{}%
-\contentsline {subsubsection}{\numberline {5.3.1}Modulation}{25}{}%
-\contentsline {subsubsection}{\numberline {5.3.2}Emetteur}{25}{}%
-\contentsline {subsubsection}{\numberline {5.3.3}Récepteur stéréo }{25}{}%
-\contentsline {subsection}{\numberline {5.4}TV noir et blanc}{26}{}%
-\contentsline {subsubsection}{\numberline {5.4.1}Modulation}{26}{}%
-\contentsline {subsubsection}{\numberline {5.4.2}Emetteur}{26}{}%
-\contentsline {subsubsection}{\numberline {5.4.3}Recepteur}{27}{}%
-\contentsline {subsection}{\numberline {5.5}TV couleurs}{28}{}%
-\contentsline {subsubsection}{\numberline {5.5.1}Système NTSC}{28}{}%
-\contentsline {subsubsection}{\numberline {5.5.2}Système PAL}{29}{}%
-\contentsline {subsubsection}{\numberline {5.5.3}Création du signal PAL}{29}{}%
-\contentsline {subsubsection}{\numberline {5.5.4}Systheme SECAM}{29}{}%
-\contentsline {subsection}{\numberline {5.6}TV numérique}{30}{}%
-\contentsline {section}{\numberline {6}Transmission de données}{30}{}%
-\contentsline {subsection}{\numberline {6.1}Protocoles de liaison}{30}{}%
-\contentsline {subsection}{\numberline {6.2}MAC : Multiplexage}{31}{}%
-\contentsline {subsubsection}{\numberline {6.2.1}Frequency Domain Multiple Access (FDMA)}{31}{}%
-\contentsline {subsubsection}{\numberline {6.2.2}Time Domain Multiple Access (TDMA)}{31}{}%
-\contentsline {subsubsection}{\numberline {6.2.3}Code Division Multiple Access (CDMA)}{32}{}%
-\contentsline {subsection}{\numberline {6.3}Gestion des erreurs}{32}{}%
-\contentsline {subsubsection}{\numberline {6.3.1}Causes des erreurs}{32}{}%
-\contentsline {subsubsection}{\numberline {6.3.2}Code détecteur et correcteur d'erreur}{32}{}%
-\contentsline {subsubsection}{\numberline {6.3.3}Codes et redondance}{35}{}%
-\contentsline {subsubsection}{\numberline {6.3.4}Code VS. encodage}{35}{}%
-\contentsline {subsubsection}{\numberline {6.3.5}Théorie des codes}{35}{}%
-\contentsline {section}{\numberline {7}Compression}{35}{}%
-\contentsline {subsection}{\numberline {7.1}Codage sans pertes}{36}{}%
-\contentsline {subsubsection}{\numberline {7.1.1}Codage entropique}{36}{}%
-\contentsline {subsubsection}{\numberline {7.1.2}Code de Huffman}{36}{}%
-\contentsline {subsubsection}{\numberline {7.1.3}Lempel-Ziv}{36}{}%
-\contentsline {subsection}{\numberline {7.2}Codage avec pertes}{37}{}%
-\contentsline {subsubsection}{\numberline {7.2.1}JPEG}{37}{}%
-\contentsline {subsection}{\numberline {7.3}Vidéo}{40}{}%
-\contentsline {section}{\numberline {8}Communications Mobiles}{40}{}%
-\contentsline {subsection}{\numberline {8.1}GSM (2G)}{40}{}%
-\contentsline {subsection}{\numberline {8.2}Réutilisation des fréquences}{41}{}%
-\contentsline {subsection}{\numberline {8.3}Modulations}{42}{}%
-\contentsline {subsection}{\numberline {8.4}Multiplexage}{42}{}%
-\contentsline {subsubsection}{\numberline {8.4.1}Structure timeslot}{42}{}%
-\contentsline {subsection}{\numberline {8.5}Distorsion}{42}{}%
-\contentsline {subsection}{\numberline {8.6}Alignement dynamique}{43}{}%
-\contentsline {subsection}{\numberline {8.7}Accès au système}{43}{}%
-\contentsline {subsection}{\numberline {8.8}Handover}{43}{}%
-\contentsline {subsection}{\numberline {8.9}Internet sur GSM}{43}{}%
-\contentsline {subsubsection}{\numberline {8.9.1}GPRS (2.5G)}{43}{}%
-\contentsline {subsubsection}{\numberline {8.9.2}Edge (2.75G)}{44}{}%
-\contentsline {subsubsection}{\numberline {8.9.3}UMTS (3G)}{44}{}%
-\contentsline {subsubsection}{\numberline {8.9.4}LTE (4G)}{44}{}%
-\contentsline {section}{\numberline {9}WIFI}{44}{}%
-\contentsline {subsection}{\numberline {9.1}Modulation}{44}{}%
-\contentsline {subsection}{\numberline {9.2}Standard}{45}{}%
+\contentsline {section}{\numberline {5}Application}{26}{}%
+\contentsline {subsection}{\numberline {5.1}Réception superhétérodyne}{26}{}%
+\contentsline {subsection}{\numberline {5.2}Radio}{26}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Pouquoi plus radio FM que AM ?}{26}{}%
+\contentsline {subsection}{\numberline {5.3}Signal stéréo Radio}{26}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Modulation}{26}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}Emetteur}{26}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}Récepteur stéréo }{27}{}%
+\contentsline {subsection}{\numberline {5.4}TV noir et blanc}{27}{}%
+\contentsline {subsubsection}{\numberline {5.4.1}Modulation}{27}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Emetteur}{27}{}%
+\contentsline {subsubsection}{\numberline {5.4.3}Recepteur}{28}{}%
+\contentsline {subsection}{\numberline {5.5}TV couleurs}{30}{}%
+\contentsline {subsubsection}{\numberline {5.5.1}Système NTSC}{30}{}%
+\contentsline {subsubsection}{\numberline {5.5.2}Système PAL}{30}{}%
+\contentsline {subsubsection}{\numberline {5.5.3}Création du signal PAL}{30}{}%
+\contentsline {subsubsection}{\numberline {5.5.4}Systheme SECAM}{30}{}%
+\contentsline {subsection}{\numberline {5.6}TV numérique}{32}{}%
+\contentsline {section}{\numberline {6}Transmission de données}{33}{}%
+\contentsline {subsection}{\numberline {6.1}Protocoles de liaison}{33}{}%
+\contentsline {subsection}{\numberline {6.2}MAC : Multiplexage}{33}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Frequency Domain Multiple Access (FDMA)}{33}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}Time Domain Multiple Access (TDMA)}{33}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}Code Division Multiple Access (CDMA)}{33}{}%
+\contentsline {subsection}{\numberline {6.3}Gestion des erreurs}{34}{}%
+\contentsline {subsubsection}{\numberline {6.3.1}Causes des erreurs}{34}{}%
+\contentsline {subsubsection}{\numberline {6.3.2}Code détecteur et correcteur d'erreur}{35}{}%
+\contentsline {subsubsection}{\numberline {6.3.3}Codes et redondance}{37}{}%
+\contentsline {subsubsection}{\numberline {6.3.4}Code VS. encodage}{38}{}%
+\contentsline {subsubsection}{\numberline {6.3.5}Théorie des codes}{38}{}%
+\contentsline {section}{\numberline {7}Compression}{39}{}%
+\contentsline {subsection}{\numberline {7.1}Codage sans pertes}{39}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Codage entropique}{39}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Code de Huffman}{39}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Lempel-Ziv}{39}{}%
+\contentsline {subsection}{\numberline {7.2}Codage avec pertes}{40}{}%
+\contentsline {subsubsection}{\numberline {7.2.1}JPEG}{40}{}%
+\contentsline {subsection}{\numberline {7.3}Vidéo}{43}{}%
+\contentsline {section}{\numberline {8}Communications Mobiles}{44}{}%
+\contentsline {subsection}{\numberline {8.1}GSM (2G)}{44}{}%
+\contentsline {subsection}{\numberline {8.2}Réutilisation des fréquences}{44}{}%
+\contentsline {subsection}{\numberline {8.3}Modulations}{45}{}%
+\contentsline {subsection}{\numberline {8.4}Multiplexage}{45}{}%
+\contentsline {subsubsection}{\numberline {8.4.1}Structure timeslot}{46}{}%
+\contentsline {subsection}{\numberline {8.5}Distorsion}{46}{}%
+\contentsline {subsection}{\numberline {8.6}Alignement dynamique}{46}{}%
+\contentsline {subsection}{\numberline {8.7}Accès au système}{46}{}%
+\contentsline {subsection}{\numberline {8.8}Handover}{47}{}%
+\contentsline {subsection}{\numberline {8.9}Internet sur GSM}{47}{}%
+\contentsline {subsubsection}{\numberline {8.9.1}GPRS (2.5G)}{47}{}%
+\contentsline {subsubsection}{\numberline {8.9.2}Edge (2.75G)}{47}{}%
+\contentsline {subsubsection}{\numberline {8.9.3}UMTS (3G)}{47}{}%
+\contentsline {subsubsection}{\numberline {8.9.4}LTE (4G)}{47}{}%
+\contentsline {section}{\numberline {9}WIFI}{49}{}%
+\contentsline {subsection}{\numberline {9.1}Modulation}{49}{}%
+\contentsline {subsection}{\numberline {9.2}Standard}{49}{}%

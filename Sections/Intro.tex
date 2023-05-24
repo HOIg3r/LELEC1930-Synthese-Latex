@@ -1,5 +1,5 @@
 \section{Introduction}
-Quelque définitions:
+Quelques définitions:
 
 \textbf{Télécommunication} : Transmission d'information sous la forme de signaux électrique sur un canal de communication.
 
@@ -8,74 +8,76 @@ Quelque définitions:
 	\subsection{Canaux de communication}
 		2 type de canaux:
 		\begin{itemize}
-			\item \textbf{Filaire} : Ligne téléphonique, cable coax, fibre optique, \dots
+			\item \textbf{Filaire} : Ligne téléphonique, câbles coaxiaux, fibre optique, \dots
 			\item \textbf{Sans fils} : Onde électromagnétique dans l'air ou espace
 		\end{itemize}
 		
-		3 élément les caractérise :
+		3 éléments les caractérise :
 		\begin{itemize}
-			\item \textbf{Atténuation} : Diminution de l'amplitude ou de la puissance d'un signal lors de sa transmitions. Il augmente avec la distance
-			\item \textbf{Bruit/Interférence} : Partie du sigal ou on ne peut pas tirer de l'information.
-			\item  \textbf{Distortion/Dispertion} : Ensemble des modification indésirable d'un signal. Il existe plusieur source
+			\item \textbf{Atténuation} : Diminution de l'amplitude ou de la puissance d'un signal lors de sa transmission. Il augmente avec la distance
+			\item \textbf{Bruit/Interférence} : Partie du signal ou on ne peut pas tirer de l'information.
+			\item  \textbf{Distorsion/Dispersion} : Ensemble des modifications indésirable d'un signal. Il existe plusieurs source
 			\begin{itemize}
-				\item \textbf{Multitrajet} : Soit le signal arrive directement a la source soit il rebondit sur des obstacle, le signal est alors découpé en plusieur morceau de moindre intésité mais répartie sur le temps.
-				\item \textbf{Effet doppler} : La fréquence des signaux qui s'approche de nous est  différente de ceux qui s'éloigne de nous
+				\item \textbf{Multitrajet} : Soit le signal arrive directement a la source, soit il rebondit sur des obstacles, le signal est alors découpé en plusieurs morceau de moindre intensité mais répartie sur le temps.
+				\item \textbf{Effet Doppler} : La fréquence des signaux qui s'approche de nous est  différente de ceux qui s'éloigne de nous
 			\end{itemize}
 			
-			\begin{figure}[htp]
+			\begin{figure}[H]
 				\centering
 				\includegraphics[width=\textwidth]{img/Distortion.png}
 			\end{figure}
 		\end{itemize}
 	
 	
-	L'information est représenté sous la forme d'un signal. Cela veut dire que changer l'amplitude du signal ne change pas l'information. Mais la distortion elle change l'information car le signal change de forme et donc modification du signal et de l'information.
+	L'information est représentée sous la forme d'un signal. Cela veut dire que changer l'amplitude du signal ne change pas l'information. Mais la distorsion elle change l'information car le signal change de forme et donc modification du signal et de l'information.
 	
-	3 moyen de représenté le signal
+	3 moyens de représenté le signal
 	\begin{itemize}
-		\item \textbf{Signaux analogique}
-		\item \textbf{Signaux numérique}
+		\item \textbf{Signaux analogiques}
+		\item \textbf{Signaux numériques}
 		\item \textbf{Numérisation} : Transformation de signaux analogique en numérique
 	\end{itemize}
-		\begin{figure}[htp]
+		\begin{figure}[H]
 			\centering
 			\includegraphics[width=0.6\textwidth]{img/Analogique-Numérique.png}
 		\end{figure}
 		
 	\subsection{Transformation de Fourrier}
 		Moyen de représenté un signal par un ensemble de fréquence. Elle permet d'analyser un signal en une somme de sinusoïde = \textbf{Contenue fréquentiel}
-		\begin{figure}[htp]
+		\begin{figure}[H]
 			\centering
 			\includegraphics[width=0.6\textwidth]{img/Fourrier.png}
 			\includegraphics[width=0.6\textwidth]{img/FourrierExemple.png}
 		\end{figure}
 		
 	\subsection{Bande de Fréquence}
-		Tous les systheme de télécom sont limité en fréquence = la bande de fréquence du systheme.
+		Tous les système de télécom sont limités en fréquence = la bande de fréquence du système.
 		
-		La \textbf{Modulation} permet de transposer un signal autour d'un fréquence définie. Utiliser pour partager les différente bande de fréquence
+		La \textbf{Modulation} permet de transposer un signal autour d'un fréquence définie. Utiliser pour partager les différentes bande de fréquence
 		
 		Un signal \textbf{modulé} est un signal \textbf{modulant} mis sur une \textbf{porteuse} à la fréquence désirée
 		
-		Le \textbf{Multiplexage} permet de faire passer plusieurs information sur un seul support de fréquence. Les differents symboles sont combinés grace a un multiplexeur. Deux types:
+		Le \textbf{Multiplexage} permet de faire passer plusieurs informations sur un seul support de fréquence. Les différents symboles sont combinés grâce a un multiplexeur. Deux types:
 		\begin{itemize}
 			\item \textbf{Temporel}
 			\item \textbf{Fréquentiel}
 		\end{itemize}
-		\begin{figure}[htp]
+		\begin{figure}[H]
 			\centering
 			\includegraphics[width=0.6\textwidth]{img/Multiplexage.png}
 		\end{figure}
 	\subsection{Exemples}
 		\subsubsection{Son}
-			Un micro capture les ondes de pressions du a la voix sous la forme d'un signal électrique
+			Un micro capture les ondes de pressions du à la voix sous la forme d'un signal électrique
 			
-			Le haut parleur lui reçoit le signal électrique et fait vibrer une membrane pour recrée le son
+			Le haut-parleur lui reçoit le signal électrique et fait vibrer une membrane pour recréer le son
 			
 			
 		\subsubsection{Stéréo}
 		
-			Les sons gauche (G) et droit (D) sont envoyés ensemble sous un signal $S_1 = G+D$ donc la somme des 2. Grace a ça les radio Mono peuvent recevoir le signal aussi. Un autre signal est aussi envoyé par la stéréo : $S_2 = G-D$. Le signal stéréo peut alors etre recréé avec l'opération suivante
+			Les sons gauches (G) et droites (D) sont envoyés ensemble sous un signal $S_1 = G+D$ donc la somme des 2. Grâce à ça les radios Mono peuvent recevoir le signal aussi. Un autre signal est aussi envoyé par la stéréo : $S_2 = G-D$. Le signal stéréo peut alors être recréé avec l'opération suivante
+
+
 			\begin{align*} 
 				G &=  S_1 + S2 = (G+D) + (G-D) = 2G \\ 		
 				D &=  S_1 - S2 = (G+D) - (G-D) = 2D
@@ -84,9 +86,10 @@ Quelque définitions:
 		\subsubsection{TV analogique}
 		
 			On joue sur la luminance (niveau de gris) des lignes est envoyé par pulsation de synchronisation (Synchronizing pulse) entre chaque ligne.
-			Un canon a électrons envoie la lumiere ligne apres ligne sur l'écran pour afficher une image
+
+			Un canon à électrons envoie la lumière ligne après ligne sur l'écran pour afficher une image
 			
-\begin{figure}
+\begin{figure}[H]
 \centering
 \begin{minipage}{.5\textwidth}
   \centering
@@ -129,7 +132,7 @@ Quelque définitions:
 		
 		Lors de l'échantillonnage, il faut pas prendre un fréquence trop grande sous peine d'avoir beaucoup d'erreur. Le \textbf{Théorème de Shannon} certifie que il n'y a aucune perte si la fréquence d'échantionnage est au moins 2 fois la fréquence maximum du signal
 		
-		\begin{figure}[htp]
+		\begin{figure}[H]
 			\centering
 			\includegraphics[width=0.6\textwidth]{img/Quantification.png}
 		\end{figure}		

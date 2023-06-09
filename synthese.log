@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.26)  24 MAY 2023 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.26)  9 JUN 2023 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,37 +469,37 @@ Package pdftex.def Info: img/FourrierExemple.png  used on input line 50.
 <img/Multiplexage.png, id=29, 991.705pt x 600.2425pt>
 File: img/Multiplexage.png Graphic file (type png)
 <use img/Multiplexage.png>
-Package pdftex.def Info: img/Multiplexage.png  used on input line 67.
+Package pdftex.def Info: img/Multiplexage.png  used on input line 69.
 (pdftex.def)             Requested size: 300.29344pt x 181.75021pt.
 <img/TV1.png, id=30, 733.74126pt x 513.92pt>
 File: img/TV1.png Graphic file (type png)
 <use img/TV1.png>
-Package pdftex.def Info: img/TV1.png  used on input line 96.
+Package pdftex.def Info: img/TV1.png  used on input line 98.
 (pdftex.def)             Requested size: 125.12099pt x 87.63185pt.
 <img/TV2.png, id=31, 889.3225pt x 503.8825pt>
 File: img/TV2.png Graphic file (type png)
 <use img/TV2.png>
-Package pdftex.def Info: img/TV2.png  used on input line 100.
+Package pdftex.def Info: img/TV2.png  used on input line 102.
 (pdftex.def)             Requested size: 125.12099pt x 70.88905pt.
 
-[7 <./img/Multiplexage.png (PNG copy)> <./img/TV1.png (PNG copy)> <./img/TV2.pn
-g (PNG copy)>]
+[7 <./img/Multiplexage.png (PNG copy)>]
 <img/Quantification.png, id=38, 273.27094pt x 167.12437pt>
 File: img/Quantification.png Graphic file (type png)
 <use img/Quantification.png>
-Package pdftex.def Info: img/Quantification.png  used on input line 137.
+Package pdftex.def Info: img/Quantification.png  used on input line 139.
 (pdftex.def)             Requested size: 300.29344pt x 183.66394pt.
-) [8 <./img/Quantification.png (PNG copy)>]
+ [8 <./img/TV1.png (PNG copy)> <./img/TV2.png (PNG copy)>]) [9 <./img/Quantific
+ation.png (PNG copy)>]
 \openout2 = `Sections/Lignes.aux'.
 
 
 (./Sections/Lignes.tex
-<img/ModélisationLigne.png, id=44, 486.31688pt x 175.40532pt>
+<img/ModélisationLigne.png, id=47, 486.31688pt x 175.40532pt>
 File: img/ModélisationLigne.png Graphic file (type png)
 <use img/ModélisationLigne.png>
 Package pdftex.def Info: img/ModélisationLigne.png  used on input line 21.
 (pdftex.def)             Requested size: 300.29344pt x 108.30855pt.
- [9
+ [10
 
 
 
@@ -509,115 +509,115 @@ Overfull \hbox (5.72742pt too wide) in paragraph at lines 81--82
 sistance pure et to-ta-le-ment ima-gi-naire pour une in-duc-tance/capacit^^Se
  []
 
-[10]
-<img/1.png, id=54, 249.93375pt x 143.03438pt>
+[11]
+<img/1.png, id=57, 249.93375pt x 143.03438pt>
 File: img/1.png Graphic file (type png)
 <use img/1.png>
 Package pdftex.def Info: img/1.png  used on input line 100.
 (pdftex.def)             Requested size: 200.19054pt x 114.57169pt.
-<img/2.png, id=55, 188.20313pt x 130.23656pt>
+<img/2.png, id=58, 188.20313pt x 130.23656pt>
 File: img/2.png Graphic file (type png)
 <use img/2.png>
 Package pdftex.def Info: img/2.png  used on input line 107.
 (pdftex.def)             Requested size: 150.14671pt x 103.90918pt.
-<img/3.png, id=56, 620.3175pt x 71.51718pt>
+<img/3.png, id=59, 620.3175pt x 71.51718pt>
 File: img/3.png Graphic file (type png)
 <use img/3.png>
 Package pdftex.def Info: img/3.png  used on input line 118.
 (pdftex.def)             Requested size: 300.29344pt x 34.6203pt.
-<img/4.png, id=57, 281.55188pt x 179.92218pt>
+<img/4.png, id=60, 281.55188pt x 179.92218pt>
 File: img/4.png Graphic file (type png)
 <use img/4.png>
 Package pdftex.def Info: img/4.png  used on input line 125.
 (pdftex.def)             Requested size: 100.09526pt x 63.96478pt.
- [11 <./img/1.png (PNG copy)> <./img/2.png (PNG copy)> <./img/3.png (PNG copy)>
+ [12 <./img/1.png (PNG copy)> <./img/2.png (PNG copy)> <./img/3.png (PNG copy)>
 ]
-<img/bifillaire.png, id=62, 819.06pt x 753.81625pt>
+<img/bifillaire.png, id=65, 819.06pt x 753.81625pt>
 File: img/bifillaire.png Graphic file (type png)
 <use img/bifillaire.png>
 Package pdftex.def Info: img/bifillaire.png  used on input line 163.
 (pdftex.def)             Requested size: 125.12099pt x 115.14948pt.
-<img/bifillaire2.png, id=63, 597.23125pt x 752.8125pt>
+<img/bifillaire2.png, id=66, 597.23125pt x 752.8125pt>
 File: img/bifillaire2.png Graphic file (type png)
 <use img/bifillaire2.png>
 Package pdftex.def Info: img/bifillaire2.png  used on input line 167.
 (pdftex.def)             Requested size: 125.12099pt x 157.71622pt.
-<img/bifillaire3.png, id=64, 978.65625pt x 696.6025pt>
+<img/bifillaire3.png, id=67, 978.65625pt x 696.6025pt>
 File: img/bifillaire3.png Graphic file (type png)
 <use img/bifillaire3.png>
 Package pdftex.def Info: img/bifillaire3.png  used on input line 171.
 (pdftex.def)             Requested size: 175.16862pt x 124.6815pt.
- [12 <./img/4.png (PNG copy)>]
-<img/coaxial1.png, id=68, 707.64375pt x 664.4825pt>
+ [13 <./img/4.png (PNG copy)>]
+<img/coaxial1.png, id=72, 707.64375pt x 664.4825pt>
 File: img/coaxial1.png Graphic file (type png)
 <use img/coaxial1.png>
 Package pdftex.def Info: img/coaxial1.png  used on input line 197.
 (pdftex.def)             Requested size: 150.14671pt x 140.9852pt.
-<img/coaxial2.png, id=69, 947.54pt x 658.46pt>
+<img/coaxial2.png, id=73, 947.54pt x 658.46pt>
 File: img/coaxial2.png Graphic file (type png)
 <use img/coaxial2.png>
 Package pdftex.def Info: img/coaxial2.png  used on input line 201.
 (pdftex.def)             Requested size: 150.14671pt x 104.33093pt.
- [13 <./img/bifillaire.png (PNG copy)> <./img/bifillaire2.png (PNG copy)> <./im
+ [14 <./img/bifillaire.png (PNG copy)> <./img/bifillaire2.png (PNG copy)> <./im
 g/bifillaire3.png (PNG copy)> <./img/coaxial1.png (PNG copy)> <./img/coaxial2.p
 ng (PNG copy)>]
-<img/multimode.png, id=74, 623.32875pt x 216.05719pt>
+<img/multimode.png, id=77, 623.32875pt x 216.05719pt>
 File: img/multimode.png Graphic file (type png)
 <use img/multimode.png>
 Package pdftex.def Info: img/multimode.png  used on input line 244.
 (pdftex.def)             Requested size: 500.484pt x 173.47894pt.
-<img/multimode2.png, id=75, 641.39626pt x 225.84375pt>
+<img/multimode2.png, id=78, 641.39626pt x 225.84375pt>
 File: img/multimode2.png Graphic file (type png)
 <use img/multimode2.png>
 Package pdftex.def Info: img/multimode2.png  used on input line 251.
 (pdftex.def)             Requested size: 500.484pt x 176.22977pt.
- [14 <./img/multimode.png (PNG copy)>]
-<img/multimode3.png, id=79, 650.43pt x 238.64156pt>
+ [15 <./img/multimode.png (PNG copy)>]
+<img/multimode3.png, id=82, 650.43pt x 238.64156pt>
 File: img/multimode3.png Graphic file (type png)
 <use img/multimode3.png>
 Package pdftex.def Info: img/multimode3.png  used on input line 258.
 (pdftex.def)             Requested size: 500.484pt x 183.63075pt.
-) [15 <./img/multimode2.png (PNG copy)> <./img/multimode3.png (PNG copy)>]
+) [16 <./img/multimode2.png (PNG copy)> <./img/multimode3.png (PNG copy)>]
 \openout2 = `Sections/PAA.aux'.
 
  (./Sections/PAA.tex
-<img/onde_direct.png, id=83, 520.19344pt x 197.98969pt>
+<img/onde_direct.png, id=86, 520.19344pt x 197.98969pt>
 File: img/onde_direct.png Graphic file (type png)
 <use img/onde_direct.png>
 Package pdftex.def Info: img/onde_direct.png  used on input line 18.
 (pdftex.def)             Requested size: 350.33727pt x 133.3412pt.
-<img/refraction.png, id=84, 495.35063pt x 335.75438pt>
+<img/refraction.png, id=87, 495.35063pt x 335.75438pt>
 File: img/refraction.png Graphic file (type png)
 <use img/refraction.png>
 Package pdftex.def Info: img/refraction.png  used on input line 43.
 (pdftex.def)             Requested size: 350.33727pt x 237.4651pt.
- [16
+ [17
 
 
 
  <./img/onde_direct.png (PNG copy)>]
-<img/satellite.png, id=88, 530.73282pt x 432.11438pt>
+<img/satellite.png, id=91, 530.73282pt x 432.11438pt>
 File: img/satellite.png Graphic file (type png)
 <use img/satellite.png>
 Package pdftex.def Info: img/satellite.png  used on input line 55.
 (pdftex.def)             Requested size: 350.33727pt x 285.24251pt.
-<img/champAntenne.png, id=90, 306.39468pt x 274.77657pt>
+<img/champAntenne.png, id=93, 306.39468pt x 274.77657pt>
 File: img/champAntenne.png Graphic file (type png)
 <use img/champAntenne.png>
 Package pdftex.def Info: img/champAntenne.png  used on input line 63.
 (pdftex.def)             Requested size: 175.17244pt x 157.09384pt.
- [17 <./img/refraction.png (PNG copy)> <./img/satellite.png>]
-<img/TEM.png, id=95, 487.06969pt x 219.82124pt>
+ [18 <./img/refraction.png (PNG copy)> <./img/satellite.png>]
+<img/TEM.png, id=98, 487.06969pt x 219.82124pt>
 File: img/TEM.png Graphic file (type png)
 <use img/TEM.png>
 Package pdftex.def Info: img/TEM.png  used on input line 69.
 (pdftex.def)             Requested size: 225.21626pt x 101.64224pt.
-<img/rayonnement.png, id=96, 457.71pt x 228.855pt>
+<img/rayonnement.png, id=99, 457.71pt x 228.855pt>
 File: img/rayonnement.png Graphic file (type png)
 <use img/rayonnement.png>
 Package pdftex.def Info: img/rayonnement.png  used on input line 79.
 (pdftex.def)             Requested size: 150.14671pt x 75.0719pt.
-<img/rayonnement2.png, id=97, 353.82187pt x 237.13594pt>
+<img/rayonnement2.png, id=100, 353.82187pt x 237.13594pt>
 File: img/rayonnement2.png Graphic file (type png)
 <use img/rayonnement2.png>
 Package pdftex.def Info: img/rayonnement2.png  used on input line 83.
@@ -627,19 +627,19 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 77--88
 []$[]$$[]$ $[]$ 
  []
 
-<img/dipole.png, id=98, 523.9575pt x 198.7425pt>
+<img/dipole.png, id=101, 523.9575pt x 198.7425pt>
 File: img/dipole.png Graphic file (type png)
 <use img/dipole.png>
 Package pdftex.def Info: img/dipole.png  used on input line 97.
 (pdftex.def)             Requested size: 350.33727pt x 132.88991pt.
-[18 <./img/champAntenne.png (PNG copy)> <./img/TEM.png (PNG copy)> <./img/rayon
+[19 <./img/champAntenne.png (PNG copy)> <./img/TEM.png (PNG copy)> <./img/rayon
 nement.png (PNG copy)> <./img/rayonnement2.png (PNG copy)>]
-<img/dipole1.png, id=102, 207.02344pt x 231.11343pt>
+<img/dipole1.png, id=106, 207.02344pt x 231.11343pt>
 File: img/dipole1.png Graphic file (type png)
 <use img/dipole1.png>
 Package pdftex.def Info: img/dipole1.png  used on input line 104.
 (pdftex.def)             Requested size: 150.14671pt x 167.6217pt.
-<img/dipole2.png, id=103, 435.87843pt x 314.67563pt>
+<img/dipole2.png, id=107, 435.87843pt x 314.67563pt>
 File: img/dipole2.png Graphic file (type png)
 <use img/dipole2.png>
 Package pdftex.def Info: img/dipole2.png  used on input line 109.
@@ -649,121 +649,121 @@ Overfull \hbox (50.05144pt too wide) in paragraph at lines 102--116
 []$[]$$[]$
  []
 
-<img/endfire.png, id=104, 496.85625pt x 243.15843pt>
+<img/endfire.png, id=108, 496.85625pt x 243.15843pt>
 File: img/endfire.png Graphic file (type png)
 <use img/endfire.png>
 Package pdftex.def Info: img/endfire.png  used on input line 122.
 (pdftex.def)             Requested size: 300.29344pt x 146.96474pt.
-[19{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./img/dip
+[20{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./img/dip
 ole.png (PNG copy)> <./img/dipole1.png (PNG copy)> <./img/dipole2.png (PNG copy
 )> <./img/endfire.png (PNG copy)>]
-<img/yagi.png, id=110, 320.69812pt x 266.49562pt>
+<img/yagi.png, id=113, 320.69812pt x 266.49562pt>
 File: img/yagi.png Graphic file (type png)
 <use img/yagi.png>
 Package pdftex.def Info: img/yagi.png  used on input line 130.
 (pdftex.def)             Requested size: 175.17244pt x 145.56863pt.
-<img/yagi2.png, id=111, 512.66531pt x 209.28188pt>
+<img/yagi2.png, id=114, 512.66531pt x 209.28188pt>
 File: img/yagi2.png Graphic file (type png)
 <use img/yagi2.png>
 Package pdftex.def Info: img/yagi2.png  used on input line 131.
 (pdftex.def)             Requested size: 275.26772pt x 112.37184pt.
-<img/parabole.png, id=112, 325.215pt x 265.74281pt>
+<img/parabole.png, id=115, 325.215pt x 265.74281pt>
 File: img/parabole.png Graphic file (type png)
 <use img/parabole.png>
 Package pdftex.def Info: img/parabole.png  used on input line 140.
 (pdftex.def)             Requested size: 225.21626pt x 184.03584pt.
-<img/parabole2.png, id=113, 351.56343pt x 295.85532pt>
+<img/parabole2.png, id=116, 351.56343pt x 295.85532pt>
 File: img/parabole2.png Graphic file (type png)
 <use img/parabole2.png>
 Package pdftex.def Info: img/parabole2.png  used on input line 141.
 (pdftex.def)             Requested size: 225.21626pt x 189.52731pt.
-<img/reseauAntennes.png, id=114, 530.73282pt x 289.83281pt>
+<img/reseauAntennes.png, id=117, 530.73282pt x 289.83281pt>
 File: img/reseauAntennes.png Graphic file (type png)
 <use img/reseauAntennes.png>
 Package pdftex.def Info: img/reseauAntennes.png  used on input line 147.
 (pdftex.def)             Requested size: 350.33727pt x 191.3212pt.
-) [20 <./img/yagi.png (PNG copy)> <./img/yagi2.png (PNG copy)> <./img/parabole.
-png (PNG copy)> <./img/parabole2.png (PNG copy)>] [21 <./img/reseauAntennes.png
+) [21 <./img/yagi.png (PNG copy)> <./img/yagi2.png (PNG copy)> <./img/parabole.
+png (PNG copy)> <./img/parabole2.png (PNG copy)>] [22 <./img/reseauAntennes.png
  (PNG copy)>]
 \openout2 = `Sections/Modulation.aux'.
 
  (./Sections/Modulation.tex
-<img/modulationAM.png, id=121, 328.97906pt x 336.50719pt>
+<img/modulationAM.png, id=124, 328.97906pt x 336.50719pt>
 File: img/modulationAM.png Graphic file (type png)
 <use img/modulationAM.png>
 Package pdftex.def Info: img/modulationAM.png  used on input line 24.
 (pdftex.def)             Requested size: 200.19054pt x 204.77614pt.
-<img/surmodulation.png, id=122, 268.00125pt x 156.585pt>
+<img/surmodulation.png, id=125, 268.00125pt x 156.585pt>
 File: img/surmodulation.png Graphic file (type png)
 <use img/surmodulation.png>
 Package pdftex.def Info: img/surmodulation.png  used on input line 39.
 (pdftex.def)             Requested size: 200.19054pt x 116.96536pt.
 
-[22
+[23
 
 
 
  <./img/modulationAM.png (PNG copy)>]
-<img/modulationAM1.png, id=126, 484.05844pt x 360.59718pt>
+<img/modulationAM1.png, id=129, 484.05844pt x 360.59718pt>
 File: img/modulationAM1.png Graphic file (type png)
 <use img/modulationAM1.png>
 Package pdftex.def Info: img/modulationAM1.png  used on input line 56.
 (pdftex.def)             Requested size: 200.19054pt x 149.13333pt.
-<img/modulationAM2.png, id=127, 402.75468pt x 493.845pt>
+<img/modulationAM2.png, id=130, 402.75468pt x 493.845pt>
 File: img/modulationAM2.png Graphic file (type png)
 <use img/modulationAM2.png>
 Package pdftex.def Info: img/modulationAM2.png  used on input line 57.
 (pdftex.def)             Requested size: 200.19054pt x 245.46754pt.
-<img/modulationAM3.png, id=128, 514.92375pt x 197.98969pt>
+<img/modulationAM3.png, id=131, 514.92375pt x 197.98969pt>
 File: img/modulationAM3.png Graphic file (type png)
 <use img/modulationAM3.png>
 Package pdftex.def Info: img/modulationAM3.png  used on input line 65.
 (pdftex.def)             Requested size: 300.29344pt x 115.4655pt.
- [23 <./img/surmodulation.png (PNG copy)> <./img/modulationAM1.png (PNG copy)> 
+ [24 <./img/surmodulation.png (PNG copy)> <./img/modulationAM1.png (PNG copy)> 
 <./img/modulationAM2.png (PNG copy)>]
-<img/filtrage.png, id=132, 679.78969pt x 173.14688pt>
+<img/filtrage.png, id=135, 679.78969pt x 173.14688pt>
 File: img/filtrage.png Graphic file (type png)
 <use img/filtrage.png>
 Package pdftex.def Info: img/filtrage.png  used on input line 90.
 (pdftex.def)             Requested size: 300.29344pt x 76.48604pt.
-<img/BandeLateralUnique.png, id=133, 602.25pt x 356.83313pt>
+<img/BandeLateralUnique.png, id=136, 602.25pt x 356.83313pt>
 File: img/BandeLateralUnique.png Graphic file (type png)
 <use img/BandeLateralUnique.png>
 Package pdftex.def Info: img/BandeLateralUnique.png  used on input line 111.
 (pdftex.def)             Requested size: 300.29344pt x 177.93152pt.
 )
-[24 <./img/modulationAM3.png (PNG copy)> <./img/filtrage.png (PNG copy)>]
-[25 <./img/BandeLateralUnique.png (PNG copy)>]
+[25 <./img/modulationAM3.png (PNG copy)> <./img/filtrage.png (PNG copy)>]
+[26 <./img/BandeLateralUnique.png (PNG copy)>]
 \openout2 = `Sections/APP.aux'.
 
  (./Sections/APP.tex
-<img/signalStéréo.png, id=141, 517.935pt x 292.84406pt>
+<img/signalStéréo.png, id=144, 517.935pt x 292.84406pt>
 File: img/signalStéréo.png Graphic file (type png)
 <use img/signalStéréo.png>
 Package pdftex.def Info: img/signalStéréo.png  used on input line 36.
 (pdftex.def)             Requested size: 300.29344pt x 169.79605pt.
-<img/emeteurStereo.png, id=142, 612.03656pt x 221.32687pt>
+<img/emeteurStereo.png, id=145, 612.03656pt x 221.32687pt>
 File: img/emeteurStereo.png Graphic file (type png)
 <use img/emeteurStereo.png>
 Package pdftex.def Info: img/emeteurStereo.png  used on input line 53.
 (pdftex.def)             Requested size: 300.29344pt x 108.59294pt.
- [26
+ [27
 
 
 
 ]
-<img/recepteurStereo.png, id=146, 371.13657pt x 207.77625pt>
+<img/recepteurStereo.png, id=149, 371.13657pt x 207.77625pt>
 File: img/recepteurStereo.png Graphic file (type png)
 <use img/recepteurStereo.png>
 Package pdftex.def Info: img/recepteurStereo.png  used on input line 77.
 (pdftex.def)             Requested size: 300.29344pt x 168.12029pt.
-<img/ModulationTVNoirBlanc.png, id=147, 619.56468pt x 277.035pt>
+<img/ModulationTVNoirBlanc.png, id=150, 619.56468pt x 277.035pt>
 File: img/ModulationTVNoirBlanc.png Graphic file (type png)
 <use img/ModulationTVNoirBlanc.png>
 Package pdftex.def Info: img/ModulationTVNoirBlanc.png  used on input line 90.
 (pdftex.def)             Requested size: 350.33727pt x 156.64764pt.
 
-[27 <./img/signalStéréo.png (PNG copy)> <./img/emeteurStereo.png (PNG copy)>]
+[28 <./img/signalStéréo.png (PNG copy)> <./img/emeteurStereo.png (PNG copy)>]
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
@@ -784,54 +784,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
-<img/EmetteruTVNoirBlanc.png, id=151, 423.08063pt x 270.25969pt>
+<img/EmetteruTVNoirBlanc.png, id=154, 423.08063pt x 270.25969pt>
 File: img/EmetteruTVNoirBlanc.png Graphic file (type png)
 <use img/EmetteruTVNoirBlanc.png>
 Package pdftex.def Info: img/EmetteruTVNoirBlanc.png  used on input line 110.
 (pdftex.def)             Requested size: 350.33727pt x 223.79999pt.
-<img/recepteurTVNoirBlanc.png, id=152, 397.485pt x 237.88875pt>
+<img/recepteurTVNoirBlanc.png, id=155, 397.485pt x 237.88875pt>
 File: img/recepteurTVNoirBlanc.png Graphic file (type png)
 <use img/recepteurTVNoirBlanc.png>
 Package pdftex.def Info: img/recepteurTVNoirBlanc.png  used on input line 125.
 (pdftex.def)             Requested size: 350.33727pt x 209.67668pt.
-[28 <./img/recepteurStereo.png (PNG copy)> <./img/ModulationTVNoirBlanc.png (PN
-G copy)>] [29 <./img/EmetteruTVNoirBlanc.png (PNG copy)> <./img/recepteurTVNoir
+[29 <./img/recepteurStereo.png (PNG copy)> <./img/ModulationTVNoirBlanc.png (PN
+G copy)>] [30 <./img/EmetteruTVNoirBlanc.png (PNG copy)> <./img/recepteurTVNoir
 Blanc.png (PNG copy)>]
-<img/NTSC.png, id=159, 507.39563pt x 317.68687pt>
+<img/NTSC.png, id=162, 507.39563pt x 317.68687pt>
 File: img/NTSC.png Graphic file (type png)
 <use img/NTSC.png>
 Package pdftex.def Info: img/NTSC.png  used on input line 150.
 (pdftex.def)             Requested size: 300.29344pt x 188.02017pt.
-<img/PAL.png, id=160, 543.53062pt x 243.15843pt>
+<img/PAL.png, id=163, 543.53062pt x 243.15843pt>
 File: img/PAL.png Graphic file (type png)
 <use img/PAL.png>
 Package pdftex.def Info: img/PAL.png  used on input line 168.
 (pdftex.def)             Requested size: 350.33727pt x 156.73766pt.
-<img/PAL1.png, id=161, 465.23813pt x 304.88907pt>
+<img/PAL1.png, id=164, 465.23813pt x 304.88907pt>
 File: img/PAL1.png Graphic file (type png)
 <use img/PAL1.png>
 Package pdftex.def Info: img/PAL1.png  used on input line 175.
 (pdftex.def)             Requested size: 350.33727pt x 229.59668pt.
- [30 <./img/NTSC.png (PNG copy)>] [31 <./img/PAL.png> <./img/PAL1.png>]) [32]
+ [31 <./img/NTSC.png (PNG copy)>] [32 <./img/PAL.png> <./img/PAL1.png>]) [33]
 \openout2 = `Sections/TDD.aux'.
 
  (./Sections/TDD.tex
-<img/FDMA.png, id=174, 505.89pt x 184.43906pt>
+<img/FDMA.png, id=177, 505.89pt x 184.43906pt>
 File: img/FDMA.png Graphic file (type png)
 <use img/FDMA.png>
 Package pdftex.def Info: img/FDMA.png  used on input line 36.
 (pdftex.def)             Requested size: 350.33727pt x 127.73026pt.
-<img/TDMA.png, id=175, 507.39563pt x 182.93344pt>
+<img/TDMA.png, id=178, 507.39563pt x 182.93344pt>
 File: img/TDMA.png Graphic file (type png)
 <use img/TDMA.png>
 Package pdftex.def Info: img/TDMA.png  used on input line 46.
 (pdftex.def)             Requested size: 350.33727pt x 126.31073pt.
-<img/TDMA1.png, id=176, 635.37375pt x 335.75438pt>
+<img/TDMA1.png, id=179, 635.37375pt x 335.75438pt>
 File: img/TDMA1.png Graphic file (type png)
 <use img/TDMA1.png>
 Package pdftex.def Info: img/TDMA1.png  used on input line 47.
 (pdftex.def)             Requested size: 350.33727pt x 185.13681pt.
- [33
+ [34
 
 
 
@@ -841,110 +841,110 @@ Overfull \hbox (9.32573pt too wide) in paragraph at lines 56--57
 chaque uti-li-sa-teur per-met-tant d'en-co-der/moduler
  []
 
-<img/CDMA.png, id=181, 484.05844pt x 179.92218pt>
+<img/CDMA.png, id=184, 484.05844pt x 179.92218pt>
 File: img/CDMA.png Graphic file (type png)
 <use img/CDMA.png>
 Package pdftex.def Info: img/CDMA.png  used on input line 64.
 (pdftex.def)             Requested size: 350.33727pt x 130.22472pt.
-[34 <./img/TDMA.png> <./img/TDMA1.png> <./img/CDMA.png>]
-<img/Erreur.png, id=188, 234.8775pt x 219.82124pt>
+[35 <./img/TDMA.png> <./img/TDMA1.png> <./img/CDMA.png>]
+<img/Erreur.png, id=191, 234.8775pt x 219.82124pt>
 File: img/Erreur.png Graphic file (type png)
 <use img/Erreur.png>
 Package pdftex.def Info: img/Erreur.png  used on input line 90.
 (pdftex.def)             Requested size: 150.14671pt x 140.52075pt.
- [35 <./img/Erreur.png>]
-<img/Erreur2.png, id=193, 650.43pt x 201.00093pt>
+ [36 <./img/Erreur.png>]
+<img/Erreur2.png, id=196, 650.43pt x 201.00093pt>
 File: img/Erreur2.png Graphic file (type png)
 <use img/Erreur2.png>
 Package pdftex.def Info: img/Erreur2.png  used on input line 99.
 (pdftex.def)             Requested size: 350.33727pt x 108.26591pt.
- [36 <./img/Erreur2.png>] [37]) [38]
+ [37 <./img/Erreur2.png>] [38]) [39]
 \openout2 = `Sections/Compression.aux'.
 
  (./Sections/Compression.tex
-<img/Compression/Huffman.png, id=205, 664.73344pt x 370.38374pt>
+<img/Compression/Huffman.png, id=208, 664.73344pt x 370.38374pt>
 File: img/Compression/Huffman.png Graphic file (type png)
 <use img/Compression/Huffman.png>
 Package pdftex.def Info: img/Compression/Huffman.png  used on input line 29.
 (pdftex.def)             Requested size: 250.24199pt x 139.43045pt.
-<img/Compression/L77.png, id=206, 566.86781pt x 278.54062pt>
+<img/Compression/L77.png, id=209, 566.86781pt x 278.54062pt>
 File: img/Compression/L77.png Graphic file (type png)
 <use img/Compression/L77.png>
 Package pdftex.def Info: img/Compression/L77.png  used on input line 37.
 (pdftex.def)             Requested size: 250.24199pt x 122.962pt.
- [39
+ [40
 
 
 
  <./img/Compression/Huffman.png>]
-<img/Compression/DCT.png, id=211, 841.64438pt x 444.91219pt>
+<img/Compression/DCT.png, id=214, 841.64438pt x 444.91219pt>
 File: img/Compression/DCT.png Graphic file (type png)
 <use img/Compression/DCT.png>
 Package pdftex.def Info: img/Compression/DCT.png  used on input line 52.
 (pdftex.def)             Requested size: 500.484pt x 264.56648pt.
-<img/Compression/DCT1.png, id=212, 876.27374pt x 655.69969pt>
+<img/Compression/DCT1.png, id=215, 876.27374pt x 655.69969pt>
 File: img/Compression/DCT1.png Graphic file (type png)
 <use img/Compression/DCT1.png>
 Package pdftex.def Info: img/Compression/DCT1.png  used on input line 57.
 (pdftex.def)             Requested size: 500.484pt x 374.5031pt.
-<img/Compression/DCT2.png, id=213, 768.62157pt x 657.95813pt>
+<img/Compression/DCT2.png, id=216, 768.62157pt x 657.95813pt>
 File: img/Compression/DCT2.png Graphic file (type png)
 <use img/Compression/DCT2.png>
 Package pdftex.def Info: img/Compression/DCT2.png  used on input line 62.
 (pdftex.def)             Requested size: 500.484pt x 428.43073pt.
- [40 <./img/Compression/L77.png> <./img/Compression/DCT.png>]
-<img/Compression/DCT3.png, id=219, 825.0825pt x 546.54187pt>
+ [41 <./img/Compression/L77.png> <./img/Compression/DCT.png>]
+<img/Compression/DCT3.png, id=222, 825.0825pt x 546.54187pt>
 File: img/Compression/DCT3.png Graphic file (type png)
 <use img/Compression/DCT3.png>
 Package pdftex.def Info: img/Compression/DCT3.png  used on input line 67.
 (pdftex.def)             Requested size: 500.484pt x 331.53033pt.
- [41 <./img/Compression/DCT1.png>] [42 <./img/Compression/DCT2.png>])
-[43 <./img/Compression/DCT3.png>]
+ [42 <./img/Compression/DCT1.png>] [43 <./img/Compression/DCT2.png>])
+[44 <./img/Compression/DCT3.png>]
 \openout2 = `Sections/CM.aux'.
 
  (./Sections/CM.tex
-<img/CM/RF.png, id=233, 575.14874pt x 368.87813pt>
+<img/CM/RF.png, id=236, 575.14874pt x 368.87813pt>
 File: img/CM/RF.png Graphic file (type png)
 <use img/CM/RF.png>
 Package pdftex.def Info: img/CM/RF.png  used on input line 20.
 (pdftex.def)             Requested size: 350.33727pt x 224.70012pt.
-<img/CM/PF.png, id=234, 395.97937pt x 346.29375pt>
+<img/CM/PF.png, id=237, 395.97937pt x 346.29375pt>
 File: img/CM/PF.png Graphic file (type png)
 <use img/CM/PF.png>
 Package pdftex.def Info: img/CM/PF.png  used on input line 27.
 (pdftex.def)             Requested size: 250.24199pt x 218.84784pt.
- [44
+ [45
 
 
 
  <./img/CM/RF.png>]
-<img/CM/HR.png, id=239, 590.95781pt x 293.59688pt>
+<img/CM/HR.png, id=242, 590.95781pt x 293.59688pt>
 File: img/CM/HR.png Graphic file (type png)
 <use img/CM/HR.png>
 Package pdftex.def Info: img/CM/HR.png  used on input line 42.
 (pdftex.def)             Requested size: 500.484pt x 248.65356pt.
 
-[45 <./img/CM/PF.png> <./img/CM/HR.png>] [46]
+[46 <./img/CM/PF.png> <./img/CM/HR.png>] [47]
 Overfull \hbox (6.11545pt too wide) in paragraph at lines 123--124
 []\OT1/cmr/m/n/12 Utilise mo-du-la-tion OFDM (des-cen-dant) et SC-FDMA (mon-tan
 t). Tres flexible. Uti-lise des fr^^Sequences
  []
 
-[47]) [48]
+[48]) [49]
 \openout2 = `Sections/WIFI.aux'.
 
  (./Sections/WIFI.tex
-<img/wifi/M.png, id=254, 810.02625pt x 270.25969pt>
+<img/wifi/M.png, id=258, 810.02625pt x 270.25969pt>
 File: img/wifi/M.png Graphic file (type png)
 <use img/wifi/M.png>
 Package pdftex.def Info: img/wifi/M.png  used on input line 16.
 (pdftex.def)             Requested size: 500.484pt x 166.98605pt.
-<img/wifi/S.png, id=255, 477.28313pt x 108.405pt>
+<img/wifi/S.png, id=259, 477.28313pt x 108.405pt>
 File: img/wifi/S.png Graphic file (type png)
 <use img/wifi/S.png>
 Package pdftex.def Info: img/wifi/S.png  used on input line 25.
 (pdftex.def)             Requested size: 500.484pt x 113.67311pt.
-) [49
+) [50
 
 
 
@@ -960,7 +960,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  7286 strings out of 476025
  118509 string characters out of 5796532
- 1868388 words of memory out of 5000000
+ 1869388 words of memory out of 5000000
  27516 multiletter control sequences out of 15000+600000
  522435 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -976,10 +976,10 @@ blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
 /usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/shar
 e/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on synthese.pdf (49 pages, 7607077 bytes).
+Output written on synthese.pdf (50 pages, 7607778 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
+ 324 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  351 words of extra memory for PDF output out of 10000 (max. 10000000)
 

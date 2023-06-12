@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021 - Flatpak)  (format=lualatex 2021.10.11)  12 JUN 2023 10:19
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021 - Flatpak)  (format=lualatex 2021.10.11)  12 JUN 2023 11:38
  restricted system commands enabled.
 **synthese.tex
 (./synthese.tex
@@ -656,54 +656,59 @@ File: img/4.png Graphic file (type png)
 Package luatex.def Info: img/4.png  used on input line 125.
 (luatex.def)             Requested size: 100.09526pt x 63.96478pt.
  [12<./img/1.png><./img/2.png><./img/3.png>]
+Overfull \hbox (6.95598pt too wide) in paragraph at lines 133--134
+[]\TU/lmr/m/n/12 Le cas des an-ciennes lignes té-lé-pho-nique basse fré-quenc
+es. Plus uti-lisé main-te-nant avec ADSL/VDSL. 
+ []
+
 <img/bifillaire.png, id=67, 819.06pt x 753.81625pt>
 File: img/bifillaire.png Graphic file (type png)
 <use img/bifillaire.png>
-Package luatex.def Info: img/bifillaire.png  used on input line 163.
+Package luatex.def Info: img/bifillaire.png  used on input line 162.
 (luatex.def)             Requested size: 125.12099pt x 115.14948pt.
 <img/bifillaire2.png, id=68, 597.23125pt x 752.8125pt>
 File: img/bifillaire2.png Graphic file (type png)
 <use img/bifillaire2.png>
-Package luatex.def Info: img/bifillaire2.png  used on input line 167.
+Package luatex.def Info: img/bifillaire2.png  used on input line 166.
 (luatex.def)             Requested size: 125.12099pt x 157.71622pt.
 <img/bifillaire3.png, id=69, 978.65625pt x 696.6025pt>
 File: img/bifillaire3.png Graphic file (type png)
 <use img/bifillaire3.png>
-Package luatex.def Info: img/bifillaire3.png  used on input line 171.
+Package luatex.def Info: img/bifillaire3.png  used on input line 170.
 (luatex.def)             Requested size: 175.16862pt x 124.6815pt.
- [13<./img/4.png>]
+[13<./img/4.png>]
 <img/coaxial1.png, id=73, 707.64375pt x 664.4825pt>
 File: img/coaxial1.png Graphic file (type png)
 <use img/coaxial1.png>
-Package luatex.def Info: img/coaxial1.png  used on input line 197.
+Package luatex.def Info: img/coaxial1.png  used on input line 196.
 (luatex.def)             Requested size: 150.14671pt x 140.9852pt.
 <img/coaxial2.png, id=74, 947.54pt x 658.46pt>
 File: img/coaxial2.png Graphic file (type png)
 <use img/coaxial2.png>
-Package luatex.def Info: img/coaxial2.png  used on input line 201.
+Package luatex.def Info: img/coaxial2.png  used on input line 200.
 (luatex.def)             Requested size: 150.14671pt x 104.33093pt.
  [14<./img/bifillaire.png><./img/bifillaire2.png><./img/bifillaire3.png><./img/c
 oaxial1.png><./img/coaxial2.png>]
 <img/multimode.png, id=78, 623.32875pt x 216.05719pt>
 File: img/multimode.png Graphic file (type png)
 <use img/multimode.png>
-Package luatex.def Info: img/multimode.png  used on input line 244.
+Package luatex.def Info: img/multimode.png  used on input line 243.
 (luatex.def)             Requested size: 500.484pt x 173.47894pt.
 <img/multimode2.png, id=79, 641.39626pt x 225.84375pt>
 File: img/multimode2.png Graphic file (type png)
 <use img/multimode2.png>
-Package luatex.def Info: img/multimode2.png  used on input line 251.
+Package luatex.def Info: img/multimode2.png  used on input line 250.
 (luatex.def)             Requested size: 500.484pt x 176.22977pt.
-[15<./img/multimode.png>]
+ [15<./img/multimode.png>]
 <img/multimode3.png, id=83, 650.43pt x 238.64156pt>
 File: img/multimode3.png Graphic file (type png)
 <use img/multimode3.png>
-Package luatex.def Info: img/multimode3.png  used on input line 258.
+Package luatex.def Info: img/multimode3.png  used on input line 257.
 (luatex.def)             Requested size: 500.484pt x 183.63075pt.
-) [16<./img/multimode2.png><./img/multimode3.png>]
+)
+[16<./img/multimode2.png><./img/multimode3.png>]
 \openout2 = Sections/PAA.aux
-
-(./Sections/PAA.tex
+ (./Sections/PAA.tex
 <img/onde_direct.png, id=87, 520.19344pt x 197.98969pt>
 File: img/onde_direct.png Graphic file (type png)
 <use img/onde_direct.png>
@@ -1054,13 +1059,13 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 7282 strings out of 478531
+ 7278 strings out of 478531
  125086,552014 words of node,token memory allocated
- 4825 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 dir, 241 glue, 4 kern, 1 penalty, 2 glyph, 1146 a
-ttribute, 57 glue_spec, 165 attribute_list, 3 write nodes
-   avail lists: 2:3576,3:363,4:174,5:649,6:92,7:5148,8:40,9:737,10:6,11:387
- 26262 multiletter control sequences out of 65536+600000
+ 4952 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 4 dir, 250 glue, 4 kern, 1 penalty, 2 glyph, 1174 a
+ttribute, 57 glue_spec, 169 attribute_list, 3 write nodes
+   avail lists: 2:3576,3:363,4:174,5:649,6:92,7:5148,8:42,9:737,10:6,11:387
+ 26258 multiletter control sequences out of 65536+600000
  71 fonts using 6461287 bytes
  68i,17n,71p,521b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 </app/texlive/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></app/te
@@ -1076,7 +1081,7 @@ nts/type1/public/amsfonts/cm/cmr8.pfb></app/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy8.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
 fb>
-Output written on synthese.pdf (50 pages, 7567283 bytes).
+Output written on synthese.pdf (50 pages, 7567850 bytes).
 
 PDF statistics: 325 PDF objects out of 1000 (max. 8388607)
  155 compressed objects within 2 object streams

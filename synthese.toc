@@ -22,7 +22,7 @@
 \contentsline {subsection}{\numberline {2.8}Lignes Bifilaire}{13}{}%
 \contentsline {subsection}{\numberline {2.9}Cable coaxial}{14}{}%
 \contentsline {subsection}{\numberline {2.10}Fibre optique}{15}{}%
-\contentsline {subsubsection}{\numberline {2.10.1}Maniere de gerer les modes}{15}{}%
+\contentsline {subsubsection}{\numberline {2.10.1}Manières de gérer les modes}{15}{}%
 \contentsline {subsubsection}{\numberline {2.10.2}Transmission dans une fibre optique}{16}{}%
 \contentsline {section}{\numberline {3}Propagation atmosphérique et Antennes}{17}{}%
 \contentsline {subsection}{\numberline {3.1}Ondes direct}{17}{}%

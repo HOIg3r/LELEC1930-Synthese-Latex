@@ -1,12 +1,12 @@
-\babel@toc {french}{}\relax 
+\babel@toc {french}{}
 \contentsline {section}{\numberline {1}Introduction}{5}{}%
 \contentsline {subsection}{\numberline {1.1}Canaux de communication}{5}{}%
-\contentsline {subsection}{\numberline {1.2}Transformation de Fourrier}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Transformation de Fourier}{6}{}%
 \contentsline {subsection}{\numberline {1.3}Bande de Fréquence}{7}{}%
 \contentsline {subsection}{\numberline {1.4}Exemples}{7}{}%
 \contentsline {subsubsection}{\numberline {1.4.1}Son}{7}{}%
 \contentsline {subsubsection}{\numberline {1.4.2}Stéréo}{7}{}%
-\contentsline {subsubsection}{\numberline {1.4.3}TV analogique}{7}{}%
+\contentsline {subsubsection}{\numberline {1.4.3}TV analogique}{8}{}%
 \contentsline {subsection}{\numberline {1.5}Signaux numérique}{8}{}%
 \contentsline {subsection}{\numberline {1.6}Numérisation}{8}{}%
 \contentsline {section}{\numberline {2}Lignes}{10}{}%
@@ -22,7 +22,7 @@
 \contentsline {subsection}{\numberline {2.8}Lignes Bifilaire}{13}{}%
 \contentsline {subsection}{\numberline {2.9}Cable coaxial}{14}{}%
 \contentsline {subsection}{\numberline {2.10}Fibre optique}{15}{}%
-\contentsline {subsubsection}{\numberline {2.10.1}Maniere de gerer les modes}{15}{}%
+\contentsline {subsubsection}{\numberline {2.10.1}Manières de gérer les modes}{15}{}%
 \contentsline {subsubsection}{\numberline {2.10.2}Transmission dans une fibre optique}{16}{}%
 \contentsline {section}{\numberline {3}Propagation atmosphérique et Antennes}{17}{}%
 \contentsline {subsection}{\numberline {3.1}Ondes direct}{17}{}%
@@ -52,7 +52,7 @@
 \contentsline {subsubsection}{\numberline {5.3.3}Récepteur stéréo }{28}{}%
 \contentsline {subsection}{\numberline {5.4}TV noir et blanc}{28}{}%
 \contentsline {subsubsection}{\numberline {5.4.1}Modulation}{28}{}%
-\contentsline {subsubsection}{\numberline {5.4.2}Emetteur}{28}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Emetteur}{29}{}%
 \contentsline {subsubsection}{\numberline {5.4.3}Recepteur}{29}{}%
 \contentsline {subsection}{\numberline {5.5}TV couleurs}{31}{}%
 \contentsline {subsubsection}{\numberline {5.5.1}Système NTSC}{31}{}%
